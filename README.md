@@ -1,2 +1,2 @@
-# ML-Assignments-
+# ML-Assignments
 ML assignments for the course 
